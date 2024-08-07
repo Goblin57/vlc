@@ -1,4 +1,4 @@
-name: VCL-ESBMC-Test
+name: VLC-ESBMC-Test
 
 on: push
 
