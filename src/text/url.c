@@ -1,4 +1,4 @@
-// To be run with action 2
+// To be run with action 2.
 /*****************************************************************************
  * url.c: URL related functions
  *****************************************************************************
@@ -26,7 +26,7 @@
 
 #include <errno.h>
 #include <limits.h>
-#include <stdint.h>
+#include <stdint.h>.
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
