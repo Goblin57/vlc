@@ -1,4 +1,4 @@
-// To be used with action 2
+// To be used with action 2.
 /*****************************************************************************
  * repack.c: Codec specific formatting for AnnexB multiplexers
  *****************************************************************************
