@@ -1,4 +1,4 @@
-// Test with action.
+// Test with action
 /*****************************************************************************
  * repack.c: Codec specific formatting for AnnexB multiplexers
  *****************************************************************************
